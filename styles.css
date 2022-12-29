@@ -1,10 +1,6 @@
 
 
-.container .owl-carousel{
+.container .carousel-inner{
     display: flex;
 }
-.first-slide, .second-slide, .third-slide, .fourth-slide, .fifth-slide{
-    background-color: cadetblue;
-    /* border-radius: 10px; */
-    border: 1px solid black;
-}
+ 
